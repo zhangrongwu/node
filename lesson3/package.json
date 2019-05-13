@@ -1,0 +1,15 @@
+{
+  "name": "lesson3",
+  "version": "1.0.0",
+  "description": "学习使用 superagent 抓取网页， 学习使用 cheerio 分析网页",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zhangrongwu",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "superagent": "^5.0.5"
+  }
+}
